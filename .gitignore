@@ -1,0 +1,13 @@
+# Gradle / Android
+**/local.properties
+**/.idea/
+**/*.iml
+**/.gradle/
+**/build/
+**/captures/
+**/app/build/
+**/gradle/wrapper/*.jar
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
