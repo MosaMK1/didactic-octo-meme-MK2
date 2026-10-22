@@ -1,0 +1,12 @@
+# Android / Gradle
+ArtGalleryApp/local.properties
+ArtGalleryApp/.idea/
+ArtGalleryApp/*.iml
+ArtGalleryApp/.gradle/
+ArtGalleryApp/**/build/
+ArtGalleryApp/app/build/
+ArtGalleryApp/gradle/wrapper/*.jar
+
+# OS / editor files
+.DS_Store
+Thumbs.db
